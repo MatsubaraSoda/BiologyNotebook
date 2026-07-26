@@ -1,0 +1,21 @@
+# 本地草稿与提示词（不进版本库，也不进网站）
+playground/
+
+# Quartz 工程依赖与构建产物
+site/node_modules/
+site/public/
+site/.quartz/
+site/.quartz-cache/
+site/tsconfig.tsbuildinfo
+
+# Obsidian 工作区状态（个人视图，不进版本库）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS / 编辑器噪音
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~

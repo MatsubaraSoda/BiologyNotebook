@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "playground/",
+    "site/"
+  ],
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
+}

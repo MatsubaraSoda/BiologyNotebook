@@ -1,3 +1,22 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Mermaid lives in <pre><code>, which otherwise inherits syntax-highlight grid layout.
+pre:has(> code.mermaid) > code.mermaid {
+  display: block;
+}
+
+// Keep transition labels opaque and above edge paths (Quartz --highlight is 15% opacity).
+code.mermaid {
+  .edgeLabels {
+    position: relative;
+    z-index: 1;
+  }
+
+  .edgeLabel,
+  .edgeLabel rect,
+  .labelBkg {
+    fill: var(--light);
+    background-color: var(--light) !important;
+    opacity: 1;
+  }
+}

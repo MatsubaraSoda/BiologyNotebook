@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="144.163pt" height="144.163pt" viewBox="0 0 144.163 144.163" preserveAspectRatio="xMidYMid meet">
+<defs>
+<font id="VMYEDE-CMR12" horiz-adv-x="0">
+<font-face font-family="VMYEDE-CMR12" units-per-em="1000" ascent="750" descent="251"/>
+<glyph unicode="A" horiz-adv-x="734" vert-adv-y="734" glyph-name="A" d="M387 696C383 708 381 714 367 714S351 711 346 695L137 97C123 56 95 30 31 29V0C92 2 94 2 127 2C155 2 203 2 229 0V29C187 30 162 51 162 79C162 85 162 87 167 100L213 233H465L520 76C525 64 525 62 525 59C525 29 474 29 449 29V0C472 2 551 2 579 2S679 2 702 0V29C637 29 619 29 605 70L387 696ZM339 595L455 262H223L339 595Z"/>
+<glyph unicode="a" horiz-adv-x="489" vert-adv-y="489" glyph-name="a" d="M386 267C386 321 386 361 342 400C307 432 262 446 218 446C136 446 73 392 73 327C73 298 92 284 115 284C139 284 156 301 156 325C156 366 120 366 105 366C128 408 176 426 216 426C262 426 321 388 321 298V258C120 255 44 171 44 94C44 15 136-10 197-10C263-10 308 30 327 78C331 31 362-5 405-5C426-5 484 9 484 89V145H462V89C462 32 438 24 424 24C386 24 386 77 386 92V267ZM321 141C321 43 248 10 205 10C156 10 115 46 115 94C115 226 285 238 321 240V141Z"/>
+</font>
+<font id="VFYJLH-CMBX12" horiz-adv-x="0">
+<font-face font-family="VFYJLH-CMBX12" units-per-em="1000" ascent="750" descent="251"/>
+<glyph unicode="A" horiz-adv-x="849" vert-adv-y="849" glyph-name="A" d="M458 677C451 695 449 700 425 700C400 700 398 695 391 677L143 67C136 51 136 49 108 46C83 43 79 43 57 43H39V0C65 2 125 2 154 2C181 2 254 2 277 0V43C255 43 217 43 189 54C192 63 192 65 194 69L247 199H515L578 43H484V0C516 2 613 2 651 2C683 2 785 2 810 0V43H715L458 677ZM381 530L497 242H264L381 530Z"/>
+<glyph unicode="a" horiz-adv-x="546" vert-adv-y="546" glyph-name="a" d="M460 299C460 391 387 453 246 453C190 453 72 448 72 364C72 322 104 304 131 304C161 304 190 325 190 363C190 382 183 400 166 411C199 420 223 420 242 420C310 420 351 382 351 300V260C193 260 34 216 34 105C34 14 150-6 219-6C296-6 345 36 365 80C365 43 365 0 466 0H517C538 0 546 0 546 22C546 43 537 43 523 43C460 44 460 60 460 83V299ZM351 139C351 45 267 27 235 27C186 27 145 60 145 106C145 197 253 228 351 233V139Z"/>
+</font>
+</defs>
+<style type="text/css">
+<![CDATA[text.f0 {font-family:VFYJLH-CMBX12;font-size:14.35px}
+text.f1 {font-family:VMYEDE-CMR12;font-size:14.35px}
+]]>
+</style>
+<g id="page1">
+<text class="f0" x="66.004479" y="-109.708052" transform="matrix(.999735 0 0 .999735 0 144.163)">A<tspan x="110.707316" y="-111.442511">a</tspan></text>
+<text class="f0" x="23.474216" y="-67.177789" transform="matrix(.999735 0 0 .999735 -.000004 144.163)">A</text>
+<text class="f1" x="61.567304" y="-67.197795" transform="matrix(.999735 0 0 .999735 -.000004 144.163)">AA</text>
+<text class="f1" x="105.852031" y="-67.197795" transform="matrix(.999735 0 0 .999735 0 144.163)">Aa</text>
+<text class="f0" x="25.645791" y="-26.380986" transform="matrix(.999735 0 0 .999735 -.000004 144.163)">a</text>
+<text class="f1" x="63.320768" y="-24.666532" transform="matrix(.999735 0 0 .999735 -.000008 144.163)">Aa<tspan x="107.605495" y="-26.480012">aa</tspan></text>
+<path d="M50.62191 50.6229H136.05974" stroke="#000" fill="none" stroke-width=".39851" stroke-miterlimit="10"/>
+<path d="M50.62191 93.14259H136.05974" stroke="#000" fill="none" stroke-width=".39851" stroke-miterlimit="10"/>
+<path d="M50.62191 136.06073H136.05974" stroke="#000" fill="none" stroke-width=".39851" stroke-miterlimit="10"/>
+<path d="M50.62191 50.6229V136.06073" stroke="#000" fill="none" stroke-width=".39851" stroke-miterlimit="10"/>
+<path d="M93.1416 50.6229V136.06073" stroke="#000" fill="none" stroke-width=".39851" stroke-miterlimit="10"/>
+<path d="M136.05974 50.6229V136.06073" stroke="#000" fill="none" stroke-width=".39851" stroke-miterlimit="10"/>
+</g>
+</svg>

@@ -1,3 +1,5 @@
+# 生物大分子结构与功能
+
 ## 四类重要生物分子
 
 - 碳水化合物
@@ -10,7 +12,7 @@
 ### 葡萄糖
 
 - 英语：Glucose
-- 分子式：$\ce{C6H12O6}$
+- 分子式：$\mathrm{C_6H_{12}O_6}$
 
 |       名称       |                          2D 平面图                           |
 | :--------------: | :----------------------------------------------------------: |
@@ -217,9 +219,9 @@ D-麦芽糖是由一分子 $\alpha$-D-葡萄糖与另一分子 D-葡萄糖通过
 
 |   名称   |     化学式     | 基团 |    表达式    |                          2D 平面图                           |
 | :------: | :------------: | :--: | :----------: | :----------------------------------------------------------: |
-|   甲醇   |  $\ce{CH3OH}$  | 羟基 |  $\ce{-OH}$  | ![https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methanol/PNG](./assets/PNG-1785057762966-12.png) |
-|   甲酸   |  $\ce{HCOOH}$  | 羧基 | $\ce{-COOH}$ | ![https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/formic-acid/PNG](./assets/PNG-1785057764829-15.png) |
-| 甲酸甲酯 | $\ce{HCOOCH3}$ | 酯基 | $\ce{-COO-}$ | ![https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methyl-formate/PNG](./assets/PNG-1785057769140-18.png) |
+|   甲醇   |  $\mathrm{CH_3OH}$  | 羟基 |  $\mathrm{-OH}$  | ![https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methanol/PNG](./assets/PNG-1785057762966-12.png) |
+|   甲酸   |  $\mathrm{HCOOH}$  | 羧基 | $\mathrm{-COOH}$ | ![https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/formic-acid/PNG](./assets/PNG-1785057764829-15.png) |
+| 甲酸甲酯 | $\mathrm{HCOOCH_3}$ | 酯基 | $\mathrm{-COO-}$ | ![https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/methyl-formate/PNG](./assets/PNG-1785057769140-18.png) |
 
 <img src="./assets/image-20260726155809328.png" alt="image-20260726155809328" style="zoom: 50%;" />
 
